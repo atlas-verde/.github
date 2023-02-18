@@ -2,4 +2,4 @@
 
 Enlaces de interés:
 
-- [Configuración de ambiente Conda](../conda.md)
+- [Configuración de ambiente Conda](conda.md)
