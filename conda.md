@@ -16,7 +16,8 @@ mamba install -y r-base r-essentials r-vroom=1.5.7 \
                  r-plotly \
                  r-dt \
                  r-sf=1.0_6 r-leaflet r-leaflet.providers r-leaflet.extras r-leaflet.minicharts r-leafem \
-                 r-shiny r-shinydashboard r-rsconnect r-shinythemes
+                 r-shiny r-shinydashboard r-shinythemes \
+                 r-rsconnect
 ```
 
 ## Borrado
