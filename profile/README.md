@@ -31,7 +31,7 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <td>
     Codificación: las tildes y otros caracteres no se despliegan correctamente.<br>
     Nombres de los indicadores: la redacción debe homgeneizarse.<br>
-    Unidades de medida de los indicadores: algunos no están claros.
+    Unidades de medida de los indicadores: algunas no están claras.
     </td>              
   </tr>
 </table>
