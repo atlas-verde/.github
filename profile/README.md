@@ -29,8 +29,8 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     https://github.com/atlas-verde/pilares-ciudad-verde
     </td>
     <td>
-    - Codificación: las tildes y otros caracteres no se despliegan correctamente.
-    - Nombres de los indicadores: la redacción debe homgeneizarse.
+    - Codificación: las tildes y otros caracteres no se despliegan correctamente.  
+    - Nombres de los indicadores: la redacción debe homgeneizarse.  
     - Unidades de medida de los indicadores: algunos no están claros.
     </td>              
   </tr>
