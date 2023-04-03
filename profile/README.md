@@ -20,19 +20,16 @@ Esta organización contiene el código fuente y la documentación de las aplicac
   </tr>
   <tr>
     <td>
-    Pilares Ciudad verde
+    Ciudad verde
     </td>
     <td>
-    https://atlas-verde.shinyapps.io/pilares-ciudad-verde/
+    https://github.com/atlas-verde/ciudad-verde
     </td>
     <td>
-    https://github.com/atlas-verde/pilares-ciudad-verde
+    https://atlas-verde.shinyapps.io/ciudad-verde/
     </td>
     <td>
-    Codificación: las tildes y otros caracteres no se despliegan correctamente.<br>
-    Nombres de los indicadores: la redacción debe homgeneizarse.<br>
-    Unidades de medida de los indicadores: algunas no están claras.
-    </td>              
+    </td>
   </tr>
 </table>
 
