@@ -49,10 +49,10 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     Infraestructura verde, gris y azul
     </td>
     <td>
-    https://atlas-verde.shinyapps.io/servicios-ecosistemicos/
+    https://atlas-verde.shinyapps.io/infraestructura/
     </td>
     <td>
-    https://github.com/atlas-verde/servicios-ecosistemicos
+    https://github.com/atlas-verde/infraestructura
     </td>
     <td>
     </td>
