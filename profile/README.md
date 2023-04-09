@@ -23,10 +23,10 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     Ciudad verde
     </td>
     <td>
-    https://github.com/atlas-verde/ciudad-verde
+    https://atlas-verde.shinyapps.io/ciudad-verde/
     </td>
     <td>
-    https://atlas-verde.shinyapps.io/ciudad-verde/
+    https://github.com/atlas-verde/ciudad-verde
     </td>
     <td>
     </td>
@@ -36,14 +36,27 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     Servicios ecosistémicos
     </td>
     <td>
+    https://atlas-verde.shinyapps.io/servicios-ecosistemicos/
+    </td>
+    <td>
     https://github.com/atlas-verde/servicios-ecosistemicos
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    Infraestructura verde, gris y azul
     </td>
     <td>
     https://atlas-verde.shinyapps.io/servicios-ecosistemicos/
     </td>
     <td>
+    https://github.com/atlas-verde/servicios-ecosistemicos
     </td>
-  </tr>  
+    <td>
+    </td>
+  </tr>
 </table>
 
 ## Enlaces de interés
