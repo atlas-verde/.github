@@ -22,6 +22,12 @@ mamba install -y r-base r-essentials \
                  r-rsconnect
 ```
 
+En la consola de R, debe instalarse el paquete `leaflet.opacity` (no está disponible en `conda-forge`):
+```
+install.packages(leaflet.opacity)
+```
+
+
 ## Borrado
 ```shell
 # Borrado de ambiente Conda
