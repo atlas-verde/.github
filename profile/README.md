@@ -57,6 +57,19 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <td>
     </td>
   </tr>
+  <tr>
+    <td>
+    Temperatura superficial
+    </td>
+    <td>
+    https://atlas-verde.shinyapps.io/temperatura-superficial/
+    </td>
+    <td>
+    https://github.com/atlas-verde/temperatura-superficial
+    </td>
+    <td>
+    </td>
+  </tr>  
 </table>
 
 ## Enlaces de interés
