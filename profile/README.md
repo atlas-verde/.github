@@ -83,6 +83,19 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <td>
     </td>
   </tr>
+  <tr>
+    <td>
+    Ciudad verde - corredores biológicos
+    </td>
+    <td>
+    https://atlas-verde-corredores.shinyapps.io/ciudad-verde/
+    </td>
+    <td>
+    https://github.com/atlas-verde/atlas-verde-corredores
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 ## Enlaces de interés
