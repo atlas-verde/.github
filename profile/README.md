@@ -102,6 +102,17 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     https://github.com/atlas-verde/infraestructura-corredores
     </td>
   </tr>
+  <tr>
+    <td>
+    Temperatura superficial - corredores biológicos
+    </td>
+    <td>
+    https://atlas-verde-corredores.shinyapps.io/temperatura-superficial/
+    </td>
+    <td>
+    https://github.com/atlas-verde/temperatura-superficial-corredores
+    </td>
+  </tr>
 </table>
 
 ## Enlaces de interés
