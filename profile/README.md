@@ -14,9 +14,6 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <th>
     Código fuente
     </th>
-    <th>
-    Pendientes
-    </th>
   </tr>
   <tr>
     <td>
@@ -27,8 +24,6 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     </td>
     <td>
     https://github.com/atlas-verde/ciudad-verde
-    </td>
-    <td>
     </td>
   </tr>
   <tr>
@@ -41,8 +36,6 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <td>
     https://github.com/atlas-verde/servicios-ecosistemicos
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
     <td>
@@ -53,8 +46,6 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     </td>
     <td>
     https://github.com/atlas-verde/infraestructura
-    </td>
-    <td>
     </td>
   </tr>
   <tr>
@@ -67,8 +58,6 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <td>
     https://github.com/atlas-verde/temperatura-superficial
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
     <td>
@@ -80,8 +69,6 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     <td>
     https://github.com/atlas-verde/biodiversidad-urbana
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
     <td>
@@ -91,9 +78,18 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     https://atlas-verde-corredores.shinyapps.io/ciudad-verde/
     </td>
     <td>
-    https://github.com/atlas-verde/atlas-verde-corredores
+    https://github.com/atlas-verde/ciudad-verde-corredores
+    </td>
+  </tr>
+  <tr>
+    <td>
+    Servicios ecosistémicos - corredores biológicos
     </td>
     <td>
+    https://atlas-verde-corredores.shinyapps.io/servicios-ecosistemicos/
+    </td>
+    <td>
+    https://github.com/atlas-verde/servicios-ecosistemicos-corredores
     </td>
   </tr>
 </table>
