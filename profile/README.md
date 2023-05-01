@@ -2,7 +2,6 @@
 Esta organización contiene el código fuente y la documentación de las aplicaciones del [Atlas de servicios ecosistémicos de la GAM](https://atlas-verde.org/).
 
 ## Aplicaciones
-
 <table>
   <tr>
     <th>
@@ -92,8 +91,19 @@ Esta organización contiene el código fuente y la documentación de las aplicac
     https://github.com/atlas-verde/servicios-ecosistemicos-corredores
     </td>
   </tr>
+  <tr>
+    <td>
+    Infraestructura verde, gris y azul - corredores biológicos
+    </td>
+    <td>
+    https://atlas-verde-corredores.shinyapps.io/infraestructura/
+    </td>
+    <td>
+    https://github.com/atlas-verde/infraestructura-corredores
+    </td>
+  </tr>
 </table>
 
 ## Enlaces de interés
-
 - [Configuración de ambiente Conda para desarrollo](conda.md)
+- [Datos](https://github.com/atlas-verde/datos)
